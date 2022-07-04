@@ -17,6 +17,6 @@ Passionate about solving problems. Always open to new challenges and ready to fa
 
 Reach me out :point_down:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusSoaresDias)](https://github.com/matheusoaresdias) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-soares-dias)](https://www.linkedin.com/in/matheus-soares-dias)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.soares.msd@gmail.com)](mailto:matheus.soares.msd@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusoaresdias)](https://github.com/matheusoaresdias) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusoaresdias)](https://www.linkedin.com/in/matheusoaresdias)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.soares.msd@gmail.com)](mailto:matheus.soares.msd@gmail.com)
 
 :white_flower: **"The future belongs to those who believe in the beauty of their dreams" - Eleanor Roosevelt** :white_flower:
