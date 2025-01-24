@@ -2,8 +2,8 @@
 **Hi, how are you?**
 
 My name is Matheus Soares. I'm from Brazil :brazil:
-I'm a **Web Developer**, that has been working as a **Front-End** developer with HTML5, CSS3, JavaScript, Bootstrap, jQuery and React.
-I'm also a **Back-End** developer with Java, Spring Boot, JSF, MySql and MongoDB.
+I'm a **Web Developer**, that has been working as a **Front-End** developer with HTML5, CSS3, Typescript, Tailwind and React.
+I'm also a **Back-End** developer with Node.js, Typescript, Nest.js, PostgreSQL and MongoDB.
 
 I'm a lover of knowledge and imagination.
 Passionate about solving problems. Always open to new challenges and ready to face changes.
