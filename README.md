@@ -1,12 +1,11 @@
 ## 👨🏻‍💻 Matheus Soares
 **Hi, how are you?**
 
-My name is Matheus Soares. I'm from Brazil :brazil:
-I'm a **Web Developer**, that has been working as a **Front-End** developer with HTML5, CSS3, Typescript, Tailwind and React.
-I'm also a **Back-End** developer with Node.js, Typescript, Nest.js, PostgreSQL and MongoDB.
+Hi, I'm Matheus Soares. I'm a web developer from Brazil, and I'm all about building great things on both the front-end (HTML5, CSS3, TypeScript, Tailwind, and React) and the back-end (Node.js, TypeScript, Nest.js, PostgreSQL, and MongoDB).
 
-I'm a lover of knowledge and imagination.
-Passionate about solving problems. Always open to new challenges and ready to face changes.
+My journey has also led me into the cloud, where I enjoy working with services on both AWS and Azure. I love architecting solutions that are not just functional, but also resilient and scalable. This includes applying principles like load balancing for distributing traffic, and implementing circuit breakers to prevent system failures from cascading. I also have a strong focus on CI/CD, automating the path from code to production to ensure a fast and reliable delivery process.
+
+I'm a lover of knowledge and imagination, and my passion is solving problems and taking on new challenges.
 
 :earth_americas: **"Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world" - Albert Einstein** :earth_americas:
 
